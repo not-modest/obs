@@ -2,10 +2,14 @@
 {"dg-publish":true,"permalink":"/quals-prep/quals-prep/","tags":["gardenEntry"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowToc":true}
 ---
 
-# [[quals-prep/kinetics/Index_kinetics\|Index_kinetics]]
-# [[quals-prep/thermo/Index_thermo\|Index_thermo]]
-# [[quals-prep/transport/Index_transport\|Index_transport]]
-# [[quals-prep/Dimensionless\|Dimensionless]]
+# kinetics
+[[quals-prep/kinetics/Index_kinetics\|Index_kinetics]]
+# thermodynamics
+[[quals-prep/thermo/Index_thermo\|Index_thermo]]
+# transport
+[[quals-prep/transport/Index_transport\|Index_transport]]
+# dimensionless # 
+[[quals-prep/Dimensionless\|Dimensionless]]
 
 
 ## previous year paper titles
