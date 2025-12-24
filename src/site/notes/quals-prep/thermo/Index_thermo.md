@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/quals-prep/thermo/index-thermo/","dgHomeLink":true,"dgShowLocalGraph":true,"dgShowToc":true}
 ---
 
-
 ## 1. Foundations and balances
 
 - [[quals-prep/thermo/Thermo_01_Basics_and_Definitions\|Thermo_01_Basics_and_Definitions]]  
