@@ -72,11 +72,13 @@ Combine to solve for $\beta$ and phase compositions.
 
 ## Interesting concepts
 
+Check out [[quals-prep/thermo/z_T–x–y Diagram and Azeotropes\|z_T–x–y Diagram and Azeotropes]]
+
 - **Shape of $P$–$x$–$y$ and $T$–$x$–$y$ diagrams**  
   Liquid and vapor composition curves; azeotropes appear where $x_i = y_i$ and bubble/dew lines meet.
 
 - **Azeotropes and separation limits**  
-  At an azeotrope, simple distillation cannot surpass that composition; other separations or conditions are needed.
+  At an azeotrope, simple distillation cannot surpass that composition; other separations or conditions are needed. 
 
 - **Ideal vs nonideal behavior**  
   Large deviations in $\gamma_i$ lead to strong nonideality and azeotrope formation.

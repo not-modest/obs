@@ -15,6 +15,8 @@
   - First law: closed vs open systems  
   - Shaft work, flow work, enthalpy, reference states  
 
+- [[quals-prep/thermo/z_Le Chatelier's\|z_Le Chatelier's]]
+
 ## 2. Second law and entropy
 
 - [[quals-prep/thermo/Thermo_03_Second_Law_and_Entropy\|Thermo_03_Second_Law_and_Entropy]]  
@@ -32,16 +34,18 @@
 ## 4. Mixtures and solution thermodynamics 
 
 - [[quals-prep/thermo/Thermo_05_Mixtures_and_Solutions\|Thermo_05_Mixtures_and_Solutions]]  
-  - Partial molar properties (conceptual)  
+  - Partial molar properties  
   - Gibbs–Duhem idea  
-  - Fugacity and activity (working definitions)  
+  - Fugacity and activity  
+  - [[quals-prep/thermo/z_Gibbs Free Energy vs Mixing & De-mixing\|z_Gibbs Free Energy vs Mixing & De-mixing]]
 
 ## 5. Phase equilibrium (VLE focus)
 
 - [[quals-prep/thermo/Thermo_06_Phase_Equilibria_VLE\|Thermo_06_Phase_Equilibria_VLE]]  
   - Phase rule, basic P–x–y diagram reading  
   - Raoult’s law, modified Raoult’s law  
-  - K-values, bubble/dew calculations (flash problems)  
+  - K-values, bubble/dew calculations (flash problems) 
+- [[quals-prep/thermo/z_T–x–y Diagram and Azeotropes\|z_T–x–y Diagram and Azeotropes]]
 
 ## 6. Chemical reaction equilibrium
 

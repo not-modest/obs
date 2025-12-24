@@ -8,10 +8,10 @@
   - Rate of reaction definitions, stoichiometry, extent of reaction  
   - Elementary vs non-elementary, reaction order  
   - Differential vs integral rate forms  
-
 - [[quals-prep/kinetics/Kin_02_Temperature_Dependence\|Kin_02_Temperature_Dependence]]  
   - Arrhenius equation, activation energy  
   - Basic parameter estimation from Arrhenius plots  
+- [[quals-prep/kinetics/z_Pseudo Steady-State Hypothesis (PSSH)\|z_Pseudo Steady-State Hypothesis (PSSH)]]
 
 ## 2. Ideal reactors
 
