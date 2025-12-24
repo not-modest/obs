@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/quals-prep/thermo/z-gibbs-free-energy-vs-mixing-and-de-mixing/","dgHomeLink":true,"dgShowLocalGraph":true,"dgShowToc":true}
 ---
 
-#2025_Jan [[quals-prep/thermo/Thermo_05_Mixtures_and_Solutions\|Thermo_05_Mixtures_and_Solutions]]
+#2025_Jan #2024_Jan [[quals-prep/thermo/Thermo_05_Mixtures_and_Solutions\|Thermo_05_Mixtures_and_Solutions]]
 
 For a binary mixture (components A and B), mixing or de-mixing is governed by the molar Gibbs free energy $G$ as a function of composition $x_B$ at fixed $T,P$. The system adopts the state (single phase or two phases) that minimizes $G$.
 

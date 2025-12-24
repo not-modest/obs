@@ -39,7 +39,8 @@
 - [[quals-prep/transport/Trans_05_Transport_in_Reacting_Systems\|Trans_05_Transport_in_Reacting_Systems]]  
   - External mass transfer limitations (film around catalyst particle)  
   - Internal diffusion limitations (concept of effectiveness factor, no heavy derivations unless needed)  
-  - Hot spots and heat transfer in exothermic reactors (qualitative plus one simple energy balance)  
+  - Hot spots and heat transfer in exothermic reactors (qualitative plus one simple energy balance)
+- [[quals-prep/transport/z_Interfacial_Area_Superficial_velocity\|z_Interfacial_Area_Superficial_velocity]]
 
 ## 6. Links to thermo and kinetics
 
