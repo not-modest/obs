@@ -130,7 +130,7 @@ then the combined process is spontaneous.
 Classic biochemical example:  
 - ATP hydrolysis (exergonic) is coupled to an endergonic biosynthetic step.  
 - The net $\Delta G$ becomes negative, so the synthesis can proceed.
-![../../Pasted image 20251224161932.png](/img/user/Pasted%20image%2020251224161932.png)
+![../src/Pasted image 20251224161932.png](/img/user/quals-prep/src/Pasted%20image%2020251224161932.png)
 ---
 
 #### Exergonic vs Exothermic (and Endergonic vs Endothermic)

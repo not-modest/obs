@@ -11,7 +11,8 @@
   \text{Re} = \frac{\rho v L}{\mu}
   $$
 - **Meaning**  
-  Inertia / viscous forces; sets laminar vs turbulent regime and structure of velocity field.
+	- $\large{\frac{\text(inertial forces)}{\text(viscous forces)}}$ #2024_Jan 
+	- sets laminar vs turbulent regime and structure of velocity field.
 - **Use**  
   Pipe and channel flow, external flow, entry to almost all transport correlations.
 - **Connections**  

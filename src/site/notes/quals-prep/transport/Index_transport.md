@@ -14,8 +14,9 @@
 - [[quals-prep/transport/Trans_02_Momentum_Transport\|Trans_02_Momentum_Transport]]  
   - Newtonian fluids, viscosity  
   - Laminar flow in a pipe (velocity profile, pressure drop)  
-  - Friction factor and major/minor losses (Moody chart usage)  
-  - Very brief: external flow and drag coefficients (only key correlations)  
+  - Friction factor and major/minor losses  
+  - Very brief: external flow and drag coefficients 
+- [[quals-prep/transport/z_Surface_Tension\|z_Surface_Tension]]
 
 ## 3. Heat transfer
 
