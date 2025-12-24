@@ -62,7 +62,90 @@ $$
 
 ---
 
-### 4. Equilibrium composition (simple gas‑phase example)
+
+## Exergonic and Endergonic Reactions 
+#2024_Jan 
+
+Exergonic and endergonic describe reactions in terms of **Gibbs free energy change** ($\Delta G$), i.e., whether a reaction releases usable energy or requires it.
+### Gibbs Free Energy and Spontaneity
+
+Gibbs free energy change at constant $T,P$:
+$$
+\Delta G = \Delta H - T \Delta S
+$$
+where:
+- $\Delta H$ = enthalpy change  
+- $\Delta S$ = entropy change  
+- $T$ = absolute temperature  
+
+Spontaneity criterion:
+- $\Delta G < 0$: reaction is **spontaneous** (can proceed without external energy input).  
+- $\Delta G > 0$: reaction is **nonspontaneous** (requires energy input).  
+- $\Delta G = 0$: system at **equilibrium**.
+
+---
+
+### Exergonic Reactions
+
+**Definition**: Exergonic reactions **release free energy** and have a **negative** Gibbs free energy change.  
+
+Key points:
+- $\Delta G < 0$ (energy “exits” the system).  
+- Products have **lower** free energy than reactants:
+  $$
+  \Delta G = G_{\text{products}} - G_{\text{reactants}} < 0
+  $$
+- Thermodynamically **spontaneous** under given conditions.  
+- In biology, often correspond to **catabolic** processes (breaking down molecules, e.g., ATP hydrolysis, glucose oxidation).
+
+Energy released can be harnessed to perform work (transport, synthesis, etc.).
+### Endergonic Reactions
+
+**Definition**: Endergonic reactions **require an input of free energy** and have a **positive** Gibbs free energy change.  
+
+Key points:
+- $\Delta G > 0$ (energy “enters” the system).  
+- Products have **higher** free energy than reactants:
+  $$
+  \Delta G = G_{\text{products}} - G_{\text{reactants}} > 0
+  $$
+- Thermodynamically **nonspontaneous** as written; will not proceed unless driven by an external energy source.  
+- In biology, often correspond to **anabolic** processes (building complex molecules, e.g., protein synthesis, active transport).
+
+---
+### Coupling Exergonic and Endergonic Reactions
+
+Cells and engineered systems often **couple** reactions so that an overall process becomes exergonic:
+
+Example idea:
+- Reaction 1 (exergonic): $\Delta G_1 < 0$  
+- Reaction 2 (endergonic): $\Delta G_2 > 0$  
+
+If they are coupled such that the **overall** reaction is:
+$$
+\Delta G_{\text{overall}} = \Delta G_1 + \Delta G_2 < 0
+$$
+then the combined process is spontaneous.
+
+Classic biochemical example:  
+- ATP hydrolysis (exergonic) is coupled to an endergonic biosynthetic step.  
+- The net $\Delta G$ becomes negative, so the synthesis can proceed.
+![../../Pasted image 20251224161932.png](/img/user/Pasted%20image%2020251224161932.png)
+---
+
+#### Exergonic vs Exothermic (and Endergonic vs Endothermic)
+
+- **Exergonic/endergonic**: about **free energy** ($\Delta G$) and **spontaneity**, includes both enthalpy and entropy effects.  
+- **Exothermic/endothermic**: about **heat** ($\Delta H$) only.  
+
+A reaction can be:
+- Exothermic but not exergonic at certain temperatures if the $-T\Delta S$ term is large and positive.  
+- Endothermic but still exergonic if there is a large, positive entropy change making $\Delta G < 0$.
+
+Thus, exergonic vs endergonic is the more general classification for spontaneity at constant $T,P$.
+
+
+## 4. Equilibrium composition (simple gas‑phase example)
 
 For reaction
 $$

@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/quals-prep/dimensionless/","dgHomeLink":true,"dgShowLocalGraph":true,"dgShowToc":true}
 ---
 
-```table-of-contents
-```
-
-
 ## 1. Flow and momentum
 
 ### Reynolds number, Re
