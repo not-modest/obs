@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/thermo/thermo-06-phase-equilibria-vle/","dgShowToc":true}
+{"dg-publish":true,"permalink":"/quals-prep/thermo/thermo-06-phase-equilibria-vle/","dgHomeLink":true,"dgShowLocalGraph":true,"dgShowToc":true}
 ---
 
 ## Key definitions

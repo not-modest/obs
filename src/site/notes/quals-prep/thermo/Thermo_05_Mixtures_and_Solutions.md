@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/thermo/thermo-05-mixtures-and-solutions/","dgShowToc":true}
+{"dg-publish":true,"permalink":"/quals-prep/thermo/thermo-05-mixtures-and-solutions/","dgHomeLink":true,"dgShowLocalGraph":true,"dgShowToc":true}
 ---
 
 ## Key definitions

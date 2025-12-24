@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/thermo/index-thermo/","dgShowToc":true}
+{"dg-publish":true,"permalink":"/quals-prep/thermo/index-thermo/","dgHomeLink":true,"dgShowLocalGraph":true,"dgShowToc":true}
 ---
 
 

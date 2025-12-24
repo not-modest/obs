@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/kinetics/index-kinetics/","dgShowToc":true}
+{"dg-publish":true,"permalink":"/quals-prep/kinetics/index-kinetics/","dgHomeLink":true,"dgShowLocalGraph":true,"dgShowToc":true}
 ---
 
 ## 1. Rate laws and basic kinetics

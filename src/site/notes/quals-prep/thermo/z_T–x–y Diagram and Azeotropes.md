@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/thermo/z-t-x-y-diagram-and-azeotropes/","dgShowToc":true}
+{"dg-publish":true,"permalink":"/quals-prep/thermo/z-t-x-y-diagram-and-azeotropes/","dgHomeLink":true,"dgShowLocalGraph":true,"dgShowToc":true}
 ---
 
 [[quals-prep/thermo/Thermo_06_Phase_Equilibria_VLE\|Thermo_06_Phase_Equilibria_VLE]]

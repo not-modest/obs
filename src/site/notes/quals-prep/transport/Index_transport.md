@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/transport/index-transport/","dgShowToc":true}
+{"dg-publish":true,"permalink":"/quals-prep/transport/index-transport/","dgHomeLink":true,"dgShowLocalGraph":true,"dgShowToc":true}
 ---
 
 ## 1. Big picture and tools

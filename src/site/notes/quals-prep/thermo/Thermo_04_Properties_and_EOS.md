@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/thermo/thermo-04-properties-and-eos/","dgShowToc":true}
+{"dg-publish":true,"permalink":"/quals-prep/thermo/thermo-04-properties-and-eos/","dgHomeLink":true,"dgShowLocalGraph":true,"dgShowToc":true}
 ---
 
 ## Key definitions

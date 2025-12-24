@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/kinetics/kin-05-nonisothermal-reactors/","dgShowToc":true}
+{"dg-publish":true,"permalink":"/quals-prep/kinetics/kin-05-nonisothermal-reactors/","dgHomeLink":true,"dgShowLocalGraph":true,"dgShowToc":true}
 ---
 
 ## Key definitions

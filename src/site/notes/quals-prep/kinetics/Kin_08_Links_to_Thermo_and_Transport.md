@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/kinetics/kin-08-links-to-thermo-and-transport/","dgShowToc":true}
+{"dg-publish":true,"permalink":"/quals-prep/kinetics/kin-08-links-to-thermo-and-transport/","dgHomeLink":true,"dgShowLocalGraph":true,"dgShowToc":true}
 ---
 
 ## Key definitions

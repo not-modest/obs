@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/transport/trans-04-mass-transfer/","dgShowToc":true}
+{"dg-publish":true,"permalink":"/quals-prep/transport/trans-04-mass-transfer/","dgHomeLink":true,"dgShowLocalGraph":true,"dgShowToc":true}
 ---
 
 ## Key definitions
