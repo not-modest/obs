@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/thermo/thermo-07-chemical-reaction-equilibrium/"}
+{"dg-publish":true,"permalink":"/quals-prep/thermo/thermo-07-chemical-reaction-equilibrium/","dgShowToc":true}
 ---
 
 ## Key definitions

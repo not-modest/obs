@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/quals-prep/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/quals-prep/quals-prep/","tags":["gardenEntry"],"dgShowToc":true}
 ---
 
 

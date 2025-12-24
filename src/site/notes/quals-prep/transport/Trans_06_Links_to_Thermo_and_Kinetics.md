@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/transport/trans-06-links-to-thermo-and-kinetics/"}
+{"dg-publish":true,"permalink":"/quals-prep/transport/trans-06-links-to-thermo-and-kinetics/","dgShowToc":true}
 ---
 
 ## Key definitions

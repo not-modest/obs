@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/kinetics/kin-03-batch-cstr-pfr/"}
+{"dg-publish":true,"permalink":"/quals-prep/kinetics/kin-03-batch-cstr-pfr/","dgShowToc":true}
 ---
 
 ## Key definitions

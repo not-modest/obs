@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/kinetics/kin-04-reaction-networks-and-selectivity/"}
+{"dg-publish":true,"permalink":"/quals-prep/kinetics/kin-04-reaction-networks-and-selectivity/","dgShowToc":true}
 ---
 
 ## Key definitions

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/thermo/thermo-01-basics-and-definitions/"}
+{"dg-publish":true,"permalink":"/quals-prep/thermo/thermo-01-basics-and-definitions/","dgShowToc":true}
 ---
 
 ## Key definitions

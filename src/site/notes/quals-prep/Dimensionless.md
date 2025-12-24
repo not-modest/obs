@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/dimensionless/"}
+{"dg-publish":true,"permalink":"/quals-prep/dimensionless/","dgShowToc":true}
 ---
 
 ```table-of-contents

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/thermo/z-le-chatelier-s/"}
+{"dg-publish":true,"permalink":"/quals-prep/thermo/z-le-chatelier-s/","dgShowToc":true}
 ---
 
 [[quals-prep/thermo/Thermo_07_Chemical_Reaction_Equilibrium\|Thermo_07_Chemical_Reaction_Equilibrium]]

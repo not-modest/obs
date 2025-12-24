@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/kinetics/kin-06-heterogeneous-catalysis-basics/"}
+{"dg-publish":true,"permalink":"/quals-prep/kinetics/kin-06-heterogeneous-catalysis-basics/","dgShowToc":true}
 ---
 
 ## Key definitions

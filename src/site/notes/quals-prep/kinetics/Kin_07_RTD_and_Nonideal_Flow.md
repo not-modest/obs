@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/kinetics/kin-07-rtd-and-nonideal-flow/"}
+{"dg-publish":true,"permalink":"/quals-prep/kinetics/kin-07-rtd-and-nonideal-flow/","dgShowToc":true}
 ---
 
 ## Key definitions

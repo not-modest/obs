@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/thermo/thermo-02-energy-and-1st-law/"}
+{"dg-publish":true,"permalink":"/quals-prep/thermo/thermo-02-energy-and-1st-law/","dgShowToc":true}
 ---
 
 ## Key definitions

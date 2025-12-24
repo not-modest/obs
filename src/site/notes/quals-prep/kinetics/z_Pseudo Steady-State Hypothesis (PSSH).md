@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/kinetics/z-pseudo-steady-state-hypothesis-pssh/"}
+{"dg-publish":true,"permalink":"/quals-prep/kinetics/z-pseudo-steady-state-hypothesis-pssh/","dgShowToc":true}
 ---
 
 #2025_Jan [[quals-prep/kinetics/Kin_01_Rates_and_Stoichiometry\|Kin_01_Rates_and_Stoichiometry]]

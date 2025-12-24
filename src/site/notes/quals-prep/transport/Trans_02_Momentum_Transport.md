@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/transport/trans-02-momentum-transport/"}
+{"dg-publish":true,"permalink":"/quals-prep/transport/trans-02-momentum-transport/","dgShowToc":true}
 ---
 
 ## Key definitions

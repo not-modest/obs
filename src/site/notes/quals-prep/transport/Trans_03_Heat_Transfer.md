@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/transport/trans-03-heat-transfer/"}
+{"dg-publish":true,"permalink":"/quals-prep/transport/trans-03-heat-transfer/","dgShowToc":true}
 ---
 
 ## Key definitions

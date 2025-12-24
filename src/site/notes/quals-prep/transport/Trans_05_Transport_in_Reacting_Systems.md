@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/transport/trans-05-transport-in-reacting-systems/"}
+{"dg-publish":true,"permalink":"/quals-prep/transport/trans-05-transport-in-reacting-systems/","dgShowToc":true}
 ---
 
 ## Key definitions

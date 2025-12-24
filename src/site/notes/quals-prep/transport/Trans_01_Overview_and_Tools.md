@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/transport/trans-01-overview-and-tools/"}
+{"dg-publish":true,"permalink":"/quals-prep/transport/trans-01-overview-and-tools/","dgShowToc":true}
 ---
 
 ## Key definitions

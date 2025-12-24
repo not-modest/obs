@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/kinetics/kin-01-rates-and-stoichiometry/"}
+{"dg-publish":true,"permalink":"/quals-prep/kinetics/kin-01-rates-and-stoichiometry/","dgShowToc":true}
 ---
 
 ## Key definitions
