@@ -8,12 +8,10 @@
   - Systems (closed, open), state, equilibrium  
   - Intensive vs extensive, state vs path functions  
   - Simple compressible systems, thermodynamic diagrams  
-
 - [[quals-prep/thermo/Thermo_02_Energy_and_1st_Law\|Thermo_02_Energy_and_1st_Law]]  
   - Forms of energy (U, H)  
   - First law: closed vs open systems  
   - Shaft work, flow work, enthalpy, reference states  
-
 - [[quals-prep/thermo/z_Le Chatelier's\|z_Le Chatelier's]]
 
 ## 2. Second law and entropy
@@ -44,6 +42,7 @@
   - Phase rule, basic P–x–y diagram reading  
   - Raoult’s law, modified Raoult’s law  
   - K-values, bubble/dew calculations (flash problems) 
+- [[quals-prep/thermo/z_Henry's_Law\|z_Henry's_Law]]
 - [[quals-prep/thermo/z_T–x–y Diagram and Azeotropes\|z_T–x–y Diagram and Azeotropes]]
 
 ## 6. Chemical reaction equilibrium
