@@ -39,7 +39,9 @@
 - [[quals-prep/kinetics/Kin_06_Heterogeneous_Catalysis_Basics\|Kin_06_Heterogeneous_Catalysis_Basics]]  
   - Concept of active sites, adsorption, surface reaction, desorption  
   - Simple Langmuir–Hinshelwood overall rate form (one example)  
-  - External mass transfer resistance vs internal diffusion effects  
+  - External mass transfer resistance vs internal diffusion effects
+- [[quals-prep/kinetics/z_Solvent_Effects\|z_Solvent_Effects]]
+- [[quals-prep/kinetics/z_Debye–Hückel_Theory_and_Dielectrics\|z_Debye–Hückel_Theory_and_Dielectrics]]
 
 ## 6. Non-ideal flow (only as needed)
 
