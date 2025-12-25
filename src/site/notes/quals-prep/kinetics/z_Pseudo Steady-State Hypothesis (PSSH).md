@@ -4,8 +4,9 @@
 
 #2025_Jan [[quals-prep/kinetics/Kin_01_Rates_and_Stoichiometry\|Kin_01_Rates_and_Stoichiometry]]
 
-The pseudo steady-state hypothesis (PSSH), also called the quasi-steady-state approximation, assumes that the concentration of a reactive intermediate changes so slowly (or is so small) that its net rate of production is approximately zero over the time scale of interest.
+[Micheles-Menten](https://chem.libretexts.org/Bookshelves/Biological_Chemistry/Supplemental_Modules_(Biological_Chemistry)/Enzymes/Enzymatic_Kinetics/Michaelis-Menten_Kinetics) #2024_Jan 
 
+The pseudo steady-state hypothesis (PSSH), also called the quasi-steady-state approximation, assumes that the concentration of a reactive intermediate changes so slowly (or is so small) that its net rate of production is approximately zero over the time scale of interest.
 ## Basic Idea
 
 Consider a mechanism involving an intermediate I:
@@ -80,3 +81,5 @@ PSSH may be inappropriate when:
 In such cases, the full set of differential equations for all species, including intermediates, should be solved without imposing PSSH.
 
 ---
+
+

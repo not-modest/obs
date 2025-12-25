@@ -42,6 +42,7 @@
   - Phase rule, basic P–x–y diagram reading  
   - Raoult’s law, modified Raoult’s law  
   - K-values, bubble/dew calculations (flash problems) 
+- [[quals-prep/thermo/z_Raoult's_Law\|z_Raoult's_Law]]
 - [[quals-prep/thermo/z_Henry's_Law\|z_Henry's_Law]]
 - [[quals-prep/thermo/z_T–x–y Diagram and Azeotropes\|z_T–x–y Diagram and Azeotropes]]
 

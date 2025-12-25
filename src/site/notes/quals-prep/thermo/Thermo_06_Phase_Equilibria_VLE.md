@@ -32,6 +32,8 @@
 
 ### 1. Raoult’s law (ideal solution, low–moderate $P$)
 
+***Detailed info is available in another note: [[quals-prep/thermo/z_Raoult's_Law\|click here]]***
+
 For component $i$ in VLE:
 $$
 y_i P = x_i P_i^{\text{sat}}(T)
