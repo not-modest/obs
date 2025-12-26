@@ -3,10 +3,10 @@
 ---
 
 >[!danger] Index
-># [[quals-prep/kinetics/Index_kinetics\|kinetics]]
-# [[quals-prep/thermo/Index_thermo\|thermodynamics]]
-# [[quals-prep/transport/Index_transport\|transport]]
-# [[quals-prep/Dimensionless\|Dimensionless #]]
+>## [[quals-prep/kinetics/Index_kinetics\|kinetics]]
+>## [[quals-prep/thermo/Index_thermo\|thermodynamics]]
+>## [[quals-prep/transport/Index_transport\|transport]]
+>## [[quals-prep/Dimensionless\|Dimensionless #]]
 
 ---
 ## previous year paper titles
