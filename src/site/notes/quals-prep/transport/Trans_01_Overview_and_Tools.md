@@ -4,15 +4,15 @@
 
 ## Key definitions
 
-- **Conservation laws**  
+- ### Conservation laws  
   - Mass: what goes in – what comes out + generation = accumulation.  
   - Momentum: sum of forces = rate of change of momentum.  
   - Energy: first law applied to a control volume (includes internal, kinetic, potential).
 
-- **Shell balance**  
-  Differential balance over a thin “shell” of fluid/solid to derive governing equations (e.g. velocity profile, temperature profile, concentration profile).
+- ### Shell balance  
+  Differential balance over a thin “shell” of fluid/solid to derive governing equations (e.g. velocity profile, temperature profile, concentration profile). Some math behind shell balances can be found [[quals-prep/transport/z_Shell_balance\|here!]]
 
-- **Transport coefficients**  
+- ### **Transport coefficients**  
   - Momentum: viscosity $\mu$.  
   - Heat: thermal conductivity $k$.  
   - Mass: diffusivity $D$.

@@ -6,7 +6,8 @@
 
 - [[quals-prep/transport/Trans_01_Overview_and_Tools\|Trans_01_Overview_and_Tools]]  
   - Conservation of mass, momentum, energy in words  
-  - Shell balance idea (momentum, heat, mass)  
+  - Shell balance idea (momentum, heat, mass) 
+	  - [[quals-prep/transport/z_Shell_balance\|z_Shell_balance]]
   - Dimensionless groups: Re, Pr, Sc, Nu, Sh  
 
 ## 2. Fluid flow and momentum transfer
