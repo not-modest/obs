@@ -262,3 +262,44 @@ Related notes:
 - [[quals-prep/transport/Trans_01_Overview_and_Tools\|Trans_01_Overview_and_Tools]], [[quals-prep/transport/Trans_06_Links_to_Thermo_and_Kinetics\|Trans_06_Links_to_Thermo_and_Kinetics]]  
 - [[quals-prep/kinetics/Kin_05_Nonisothermal_Reactors\|Kin_05_Nonisothermal_Reactors]], [[quals-prep/kinetics/Kin_06_Heterogeneous_Catalysis_Basics\|Kin_06_Heterogeneous_Catalysis_Basics]], [[quals-prep/kinetics/Kin_07_RTD_and_Nonideal_Flow\|Kin_07_RTD_and_Nonideal_Flow]]  
 - [[quals-prep/thermo/Thermo_03_Second_Law_and_Entropy\|Thermo_03_Second_Law_and_Entropy]], [[quals-prep/thermo/Thermo_08_Links_to_Kinetics_and_Transport\|Thermo_08_Links_to_Kinetics_and_Transport]]  
+
+---
+
+## Some more Dimensionless Groups!
+### 1. Hatta Number Ha (Brief)
+
+#### Physical Meaning
+
+- Ha compares **characteristic reaction rate in the liquid film** to **diffusive transport across the film**.
+- Low Ha → reaction is slow relative to diffusion (reaction in bulk).
+- High Ha → reaction is fast relative to diffusion (reaction confined to film, “fast reaction” regime).
+
+---
+
+#### Typical Definitions
+
+##### General (m,n)-order reaction in A and B
+
+For:
+$$
+r_A = k_{m,n} C_A^m C_B^n
+$$
+
+A generalized Hatta number is:
+$$
+Ha = \frac{\sqrt{\frac{2}{m+1}\,k_{m,n}\,C_{A,i}^{\,m-1}\,C_{B,bulk}^n\,D_A}}{k_L}
+$$
+with $C_{A,i}$ the interfacial concentration of A. 
+
+---
+
+#### Regimes (Qualitative)
+
+- $Ha \ll 1$  
+  - Reaction slow; essentially **physical absorption** plus slow reaction in bulk.
+- $Ha \approx 1$  
+  - Reaction and diffusion comparable; partial enhancement of mass transfer.
+- $Ha \gg 1$ (often $Ha > 2$)  
+  - **Fast reaction regime**; reaction occurs within the film, bulk A ≈ 0, and flux is proportional to $k_L C_{A,i} Ha$.
+
+Ha is essentially the **square root of a Damköhler number** based on the liquid film and is analogous to the **Thiele modulus** for porous catalysts. 
