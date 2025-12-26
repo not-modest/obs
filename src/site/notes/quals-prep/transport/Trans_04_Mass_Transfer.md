@@ -9,6 +9,7 @@
   J_A = -D_{AB} \frac{dC_A}{dx}
   $$
   where $J_A$ is molar flux relative to a stationary frame.
+- **[[quals-prep/transport/z_Diffusion_regimes\|z_Diffusion_regimes]]**
 
 - **Molar flux with convection**  
   $$
@@ -94,7 +95,7 @@ When a species moves through multiple layers (e.g., gas film → interface → l
 
 - Total resistance:
   $$
-  R_{\text{tot}} = \sum_i R_i
+  \frac{1}{R_{\text{tot}}} = \sum_i \frac{1}{R_i}
   $$
 - Overall flux from bulk 1 to bulk 2:
   $$
@@ -208,7 +209,7 @@ For diffusion through gas film, liquid film, and a porous catalyst or membrane, 
 - To increase $N_A$ at fixed driving force, reduce the dominant resistance (increase the corresponding $k$ or $D_{\text{eff}}$).  
 - Overall coefficients $K_G$ or $K_L$ allow writing a single flux expression using measurable bulk compositions, avoiding explicit interface terms.  
 ---
-# Partition Coefficient (Brief)
+# Partition Coefficient
 
 The partition coefficient describes how a solute distributes itself between two immiscible phases (typically an organic phase and an aqueous phase) at equilibrium. It is a measure of relative solubility and thus of how much the solute “prefers” one phase over the other.
 
