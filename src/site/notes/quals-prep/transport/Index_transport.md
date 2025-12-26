@@ -18,6 +18,7 @@
   - Friction factor and major/minor losses  
   - Very brief: external flow and drag coefficients 
 - [[quals-prep/transport/z_Surface_Tension\|z_Surface_Tension]]
+- [[quals-prep/transport/z_Ergun_equation\|z_Ergun_equation]]
 
 ## 3. Heat transfer
 

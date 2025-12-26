@@ -77,7 +77,7 @@ Using conversion:
 $$
 V = \int_{0}^{X_A} \frac{F_{A0}}{-r_A}\, dX_A
 $$
-
+### [[quals-prep/kinetics/z_Packed_bed_reactors\|z_Packed_bed_reactors]]
 ---
 
 ## Special case: first‑order liquid reaction, $-r_A = k C_A$, $C_A = C_{A0}(1 - X_A)$

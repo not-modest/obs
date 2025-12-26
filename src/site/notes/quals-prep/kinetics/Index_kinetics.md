@@ -18,7 +18,8 @@
 - [[quals-prep/kinetics/Kin_03_Batch_CSTR_PFR\|Kin_03_Batch_CSTR_PFR]]  
   - Mole balance forms for batch, CSTR, PFR  
   - Isothermal design equations for single reactions  
-  - Space time, conversion, and simple design comparisons  
+  - Space time, conversion, and simple design comparisons 
+- [[quals-prep/kinetics/z_Packed_bed_reactors\|z_Packed_bed_reactors]]
 
 ## 3. Networks, selectivity, and design intuition
 
