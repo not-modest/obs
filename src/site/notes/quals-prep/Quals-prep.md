@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/quals-prep/quals-prep/","tags":["gardenEntry"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowToc":true}
 ---
 
-# [[quals-prep/kinetics/Index_kinetics\|kinetics]]
+>[!danger] Index
+># [[quals-prep/kinetics/Index_kinetics\|kinetics]]
 # [[quals-prep/thermo/Index_thermo\|thermodynamics]]
 # [[quals-prep/transport/Index_transport\|transport]]
 # [[quals-prep/Dimensionless\|Dimensionless #]]
