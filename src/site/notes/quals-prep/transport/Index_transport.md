@@ -33,7 +33,8 @@
   - Fick’s law, steady diffusion through a stagnant film  
   - Concept of mass transfer coefficient k_c and flux N_A  
   - Sherwood, Schmidt, Reynolds numbers  
-  - Gas–liquid and liquid–solid film transfer (simple correlations)  
+  - Gas–liquid and liquid–solid film transfer (simple correlations)
+- [[quals-prep/transport/z_permeability\|z_permeability]]
 
 ## 5. Simultaneous transport and reactors
 

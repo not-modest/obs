@@ -45,6 +45,7 @@ Large $a$ generally enhances volumetric transfer coefficients ($k_L a$, $k_G a$,
 ---
 
 ## Superficial Velocity (Empty-Tube Velocity)
+[[quals-prep/transport/z_permeability\|z_permeability]]
 
 **Superficial velocity** of a phase is the hypothetical velocity if that phase alone flowed through the total cross-sectional area, ignoring the presence of other phases or internals. 
 
