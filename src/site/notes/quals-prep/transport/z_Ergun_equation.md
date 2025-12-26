@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/quals-prep/transport/z-ergun-equation/","dgHomeLink":true,"dgShowLocalGraph":true,"dgShowToc":true}
 ---
 
-#2021_Jan 
+#2021_Jan  [[quals-prep/kinetics/z_Packed_bed_reactors\|z_Packed_bed_reactors]]
 # Ergun Equation (Packed-Bed Pressure Drop)
 
 The Ergun equation relates **pressure drop** across a packed bed to **fluid properties**, **packing geometry**, and **superficial velocity**, combining viscous (laminar) and inertial (turbulent) contributions.

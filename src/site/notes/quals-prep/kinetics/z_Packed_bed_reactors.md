@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/quals-prep/kinetics/z-packed-bed-reactors/","dgHomeLink":true,"dgShowLocalGraph":true,"dgShowToc":true}
 ---
 
-# Packed-Bed Reactors (PBRs) – Key Concepts and Equations
+# Key Concepts and Equations
 
 Packed-bed reactors are fixed beds of solid particles (often catalysts) through which fluid reactants flow. They are widely used in heterogeneous catalysis and adsorption.
 
