@@ -21,6 +21,19 @@
 
 # Major Thermodynamic Cycles
 
+| Aspect                     | [[#1. Carnot Cycle (Reversible, Ideal Benchmark)\|Carnot cycle]] | [[#2. Rankine Cycle (Basic Steam Power Cycle)\|Rankine cycle]]                         |
+| -------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| Purpose                    | Ideal, theoretical benchmark for maximum efficiency              | Practical steam power cycle used in turbines                                           |
+| Working fluid model        | Ideal gas or idealized fluid with reversible processes           | Real water/steam with phase change                                                     |
+| Heat addition              | Isothermal at $T_H$                                              | Isobaric in boiler (liquid → saturated/superheated vapor)                              |
+| Heat rejection             | Isothermal at $T_C$                                              | Isobaric in condenser (vapor → saturated liquid)                                       |
+| Expansion process          | Reversible isothermal + reversible adiabatic                     | Ideally isentropic expansion in turbine                                                |
+| Compression process        | Reversible isothermal + reversible adiabatic                     | Ideally isentropic pumping of (nearly) incompressible liquid                           |
+| Practical implementability | Not realizable as a real engine                                  | Widely used in power plants (steam cycles)                                             |
+| Efficiency expression      | $\eta = 1 - T_C/T_H$                                             | $\eta = \dfrac{w_{\text{net}}}{q_{\text{in}}}$, depends on $h$’s and irreversibilities |
+| Irreversibilities assumed  | None (fully reversible)                                          | Present in turbine, pump, boiler, condenser, and fluid flows                           |
+| Use in design              | Theoretical upper bound; benchmark for any heat engine           | Basis for real plant design, optimization, and modifications                           |
+
 ## 1. Carnot Cycle (Reversible, Ideal Benchmark)
 
 Four internally reversible steps between $T_H$ (hot) and $T_C$ (cold):
