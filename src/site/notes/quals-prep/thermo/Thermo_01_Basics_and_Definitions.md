@@ -29,6 +29,8 @@
 - **Simple compressible system**  
   System where only $P$–$V$ work is relevant (no electric, magnetic, surface, or other work modes).
 
+### Basic thermodynamic processes and cycles can be explored [[quals-prep/thermo/z_thermo_processes_and_cycles\|here!]]
+
 ---
 
 ## Core relations and concepts

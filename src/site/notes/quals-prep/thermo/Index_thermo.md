@@ -8,6 +8,7 @@
   - Systems (closed, open), state, equilibrium  
   - Intensive vs extensive, state vs path functions  
   - Simple compressible systems, thermodynamic diagrams  
+  - [[quals-prep/thermo/z_thermo_processes_and_cycles\|z_thermo_processes_and_cycles]]
 - [[quals-prep/thermo/Thermo_02_Energy_and_1st_Law\|Thermo_02_Energy_and_1st_Law]]  
   - Forms of energy (U, H)  
   - First law: closed vs open systems  
