@@ -3,7 +3,7 @@
 ---
 
 #2021_Jan [[quals-prep/thermo/Thermo_06_Phase_Equilibria_VLE\|Thermo_06_Phase_Equilibria_VLE]]
-# Raoult’s Law – Advanced Thermodynamic Treatment
+# Raoult’s Law 
 
 Raoult’s law describes the vapor–liquid equilibrium (VLE) of **ideal solutions** by relating the partial pressure of each component in the vapor to its mole fraction in the liquid and its pure-component saturation pressure.
 
