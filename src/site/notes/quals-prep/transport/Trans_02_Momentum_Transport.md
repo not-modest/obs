@@ -9,7 +9,7 @@
   $$
   \tau_{xy} = \mu \frac{\partial u_x}{\partial y}
   $$
-
+![../src/Pasted image 20251226225234.png](/img/user/quals-prep/src/Pasted%20image%2020251226225234.png)
 - **Viscosity, $\mu$**  
   Measure of fluid resistance to shear; units Pa·s (kg m$^{-1}$ s$^{-1}$).
 

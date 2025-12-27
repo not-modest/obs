@@ -26,6 +26,7 @@
 #2021_Jan
 	- Automated Measurements of Gas Liquid Mass Transfer in Micro-Packed Bed Reactor
 	- Transesterification process by combination of reactive distillation and pervaporation
+	- Process intensification writ large with microchannel absorption in nitric acid production
 #2024_Jan
 	- Liquid-liquid heterogeneous mixing efficiency in a rotating packed bed reactor
 	- Immobilized Heparinase: ln Vitro Reactor Model

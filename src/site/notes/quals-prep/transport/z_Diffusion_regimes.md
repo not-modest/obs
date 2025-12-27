@@ -77,7 +77,7 @@ where $r^2 = x^2 + y^2 + z^2$.
 
 ### Einstein relation (Brownian particle in fluid)
 
-For a spherical Brownian particle (radius $a$) in a fluid with viscosity $\mu$ at temperature $T$, the diffusion coefficient is given by the **Einstein–Stokes relation**:
+For a spherical Brownian particle (radius $a$) in a fluid with viscosity $\mu$ at temperature $T$, the diffusion coefficient is given by the **Einstein–Stokes relation** #2021_Jan :
 
 $$
 D = \frac{k_B T}{6 \pi \mu a}
