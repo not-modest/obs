@@ -15,6 +15,7 @@
 - **Meaning**  
 	- $\large{\frac{\text(inertial forces)}{\text(viscous forces)}}$ #2024_Jan 
 	- sets laminar vs turbulent regime and structure of velocity field.
+	- **viscous force** is the internal resistance of the fluid to flow and deformation caused by the friction between adjacent fluid layers moving at different velocities. It opposes fluid motion, dampening turbulence and creating velocity gradients (like the boundary layer) near reactor walls
 - **Use**  
   Pipe and channel flow, external flow, entry to almost all transport correlations.
 - **Connections**  
