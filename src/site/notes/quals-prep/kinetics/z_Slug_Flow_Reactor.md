@@ -366,6 +366,7 @@ In many microreactor slug flows, $D_{\text{ax,eff}}$ is small enough to neglect,
 **Hydrodynamics and RTD**
 - $u_{mix} = u_L + u_G$  
 - $\tau = L / u_{mix}$  
+- Hydraulic Diameter: $$ D_h = \frac{4\cdot\text{Cross-sectional Area}}{\text{Wetted Perimeter}} $$
 
 **Liquid-phase species balance (PFR + mass transfer + reaction)**
 $$
