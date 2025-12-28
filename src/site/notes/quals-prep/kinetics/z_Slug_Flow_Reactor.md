@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/quals-prep/kinetics/z-slug-flow-reactor/","tags":["2019_Jan"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true}
 ---
 
+[[quals-prep/transport/z_role_of_surfactants\|../transport/z_role_of_surfactants]] #2019_Jan 
 # Slug Flow Reactors 
 ![../src/Pasted image 20251228154531.png|400](/img/user/quals-prep/src/Pasted%20image%2020251228154531.png)
 

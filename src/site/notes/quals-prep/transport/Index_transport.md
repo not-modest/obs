@@ -46,6 +46,7 @@
   - Internal diffusion limitations (concept of effectiveness factor, no heavy derivations unless needed)  
   - Hot spots and heat transfer in exothermic reactors (qualitative plus one simple energy balance)
 - [[quals-prep/transport/z_Interfacial_Area_Superficial_velocity\|z_Interfacial_Area_Superficial_velocity]]
+- [[quals-prep/transport/z_role_of_surfactants\|z_role_of_surfactants]]
 
 ## 6. Links to thermo and kinetics
 
