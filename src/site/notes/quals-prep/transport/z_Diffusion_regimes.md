@@ -137,3 +137,47 @@ $$
 ---
 
 
+#### Maxwell–Stefan vs Fick diffusivities
+
+For multicomponent systems:
+
+- **Maxwell–Stefan diffusivities** $\tilde{D}_{ij}$ relate fluxes to **chemical potential gradients** (more fundamental).  
+- **Fick diffusivities** $D_{ij}$ relate fluxes to **concentration gradients**.
+
+The two are linked via thermodynamic factors; in ideal binary mixtures, they coincide:
+$$
+D_{AB} \approx \tilde{D}_{AB}
+$$
+
+---
+
+
+## Activated Diffusion (Solids, Surface, Polymers)
+
+In solids, dense polymers, or surface diffusion, movement requires **overcoming an energy barrier**:
+
+Arrhenius form:
+$$
+D(T) = D_0 \exp\left(-\frac{E_D}{R T}\right)
+$$
+
+- $D_0$: pre-exponential factor  
+- $E_D$: activation energy for diffusion  
+
+Higher temperature → exponentially higher $D$ (up to limits set by phase changes or structural transitions).
+
+---
+## 7. Summary Table
+
+| Type / context                | Symbol         | Key relation / definition                               |
+|-------------------------------|----------------|---------------------------------------------------------|
+| Binary (mutual) diffusion    | $D_{AB}$       | $J_A = -D_{AB} \nabla C_A$                             |
+| Self-diffusion               | $D^*$          | $D^* = \frac{1}{6t}\langle r^2 \rangle$ (as $t\to\infty$) |
+| Maxwell–Stefan diffusivity   | $\tilde{D}_{ij}$ | Uses $\nabla \mu_i$ as driving force                    |
+| Knudsen diffusion            | $D_{K,i}$      | $D_{K,i} = \frac{2}{3} r_p \sqrt{\frac{8RT}{\pi M_i}}$ |
+| Pore diffusivity             | $D_{\text{pore}}$ | $1/D_{\text{pore}} = 1/D_{AB} + 1/D_K$                |
+| Effective diffusivity        | $D_{\text{eff}}$ | $D_{\text{eff}} = (\varepsilon/\tau) D_{\text{pore}}$ |
+| Activated diffusion          | $D(T)$         | $D = D_0 e^{-E_D/(RT)}$                                 |
+| Einstein–Stokes (Brownian)   | $D$            | $D = k_B T/(6\pi \mu a)$                                |
+
+In short, “diffusion coefficient” is not one unique number: it depends on **mechanism** (bulk vs Knudsen vs surface), **medium structure** (porous vs homogeneous), and **thermodynamics** (self vs mutual vs MS).

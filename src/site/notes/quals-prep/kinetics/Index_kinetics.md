@@ -45,6 +45,7 @@
 - [[quals-prep/kinetics/z_Leonard_jones_potential\|z_Leonard_jones_potential]]
 - [[quals-prep/kinetics/z_Debye–Hückel_Theory_and_Dielectrics\|z_Debye–Hückel_Theory_and_Dielectrics]]
 - [[quals-prep/kinetics/z_Leonard_jones_potential\|z_Leonard_jones_potential]]
+- [[quals-prep/kinetics/z_physi_vs_chemisorption\|z_physi_vs_chemisorption]]
 
 ## 6. Non-ideal flow (only as needed)
 
