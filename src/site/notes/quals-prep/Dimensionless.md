@@ -340,3 +340,78 @@ In sprays, atomization, and emulsification, critical Weber numbers indicate onse
 Remember:  
 - Large $u$, large $L$, or large $\rho$ → higher $\mathrm{We}$ → more deformation/breakup.  
 - Large $\sigma$ → lower $\mathrm{We}$ → more stable interfaces.
+
+### 3. Capillary Number (Ca) 
+
+#### Definition
+
+For a fluid of viscosity $\mu$, characteristic velocity $U$, and interfacial tension $\sigma$:
+
+$$
+\mathrm{Ca} = \frac{\mu U}{\sigma}
+$$
+
+- Viscous stress scale: $\mu U/L$  
+- Capillary pressure scale: $\sigma / L$  
+
+So the ratio of characteristic viscous stress to capillary stress is:
+
+$$
+\frac{\mu U/L}{\sigma/L} = \frac{\mu U}{\sigma} = \mathrm{Ca}
+$$
+
+Units cancel → dimensionless.
+
+---
+
+#### Physical Interpretation
+
+- $\mathrm{Ca} \ll 1$  
+  - Surface tension dominates.  
+  - Interfaces tend to maintain curvature; droplets/bubbles resist deformation, strong capillary effects (meniscus, capillary rise, etc.).
+
+- $\mathrm{Ca} \sim 1$  
+  - Viscous and capillary forces comparable; interface deforms significantly.
+
+- $\mathrm{Ca} \gg 1$  
+  - Viscous forces dominate.  
+  - Surface tension becomes relatively unimportant; interfaces are strongly stretched and deformed by the flow.
+
+---
+
+#### Relation to Other Dimensionless Groups
+
+Using Reynolds number $\mathrm{Re} = \rho U L / \mu$ and Weber number $\mathrm{We} = \rho U^2 L / \sigma$:
+
+$$
+\mathrm{Ca} = \frac{\mu U}{\sigma}
+= \frac{\mu}{\rho U L} \cdot \frac{\rho U^2 L}{\sigma}
+= \frac{\mathrm{We}}{\mathrm{Re}}
+$$
+
+So:
+
+- $\mathrm{Re}$: inertia vs viscosity  
+- $\mathrm{We}$: inertia vs surface tension  
+- $\mathrm{Ca}$: viscosity vs surface tension
+
+---
+
+#### Typical Uses
+
+- **Microfluidics / droplet generation**:  
+  - Controls transition between dripping, jetting, and stable slug/Taylor flow.
+
+- **Multiphase flows in porous media** (enhanced oil recovery, soil flow):  
+  - $\mathrm{Ca}$ used to judge whether viscous forces can overcome capillary trapping.
+
+- **Coating, wetting, and dynamic contact angles**:  
+  - $\mathrm{Ca}$ appears in correlations for moving contact lines and film thickness.
+
+---
+
+#### Summary
+
+- Formula: $\displaystyle \mathrm{Ca} = \mu U / \sigma$  
+- Low Ca → capillary-dominated; high Ca → viscous-dominated.  
+- Helps classify and scale flows where **viscosity–surface-tension balance** controls interface shape and dynamics.

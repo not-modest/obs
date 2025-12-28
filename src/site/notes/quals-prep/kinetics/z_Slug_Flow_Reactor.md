@@ -7,7 +7,7 @@
 
 Slug flow reactors can be modeled as **plug-flow reactors** with enhanced interphase mass/heat transfer due to Taylor slugs. Below are the main equations and derivations.
 
-# 1. What is Slug Flow?
+## 1. What is Slug Flow?
 
 - Flow pattern: Sequence of **liquid slugs** and **gas bubbles** (or two immiscible liquid slugs) moving down a channel.
 - Each “unit cell” ≈ gas bubble + liquid slug + thin film around bubble.
@@ -20,7 +20,7 @@ Key features:
 
 ---
 
-# 2. Hydrodynamics and Residence Time
+## 2. Hydrodynamics and Residence Time
 
 - Superficial velocities: $u_G$, $u_L$ for gas and liquid; mixture velocity $u_{mix}$ sets residence time:
   $$
@@ -36,7 +36,7 @@ Slugs are characterized by:
 
 ---
 
-# 3. Mass Transfer and Heat Transfer
+## 3. Mass Transfer and Heat Transfer
 
 Slug flow strongly enhances interphase transport compared with laminar single-phase flow:
 
@@ -55,7 +55,7 @@ Similarly, heat transfer is improved:
 
 ---
 
-# 4. Reactor Modeling (Slug Flow as PFR + Enhancement)
+## 4. Reactor Modeling (Slug Flow as PFR + Enhancement)
 
 At the macro scale, a slug flow reactor is often modeled as a **plug flow reactor (PFR)** with enhanced mass/heat transfer:
 
@@ -78,9 +78,9 @@ At the macro scale, a slug flow reactor is often modeled as a **plug flow reacto
 
 ---
 
-# 5. Design Considerations
+## 5. Design Considerations
 
-## 5.1 Advantages
+### 5.1 Advantages
 
 - Near plug-flow behavior with good radial mixing → high selectivity for kinetically controlled reactions.
 - High mass and heat transfer → suitable for:
@@ -89,14 +89,14 @@ At the macro scale, a slug flow reactor is often modeled as a **plug flow reacto
   - Mass-transfer-limited systems.
 - Small volume, high surface-to-volume ratio → **process intensification**.
 
-## 5.2 Key design variables
+### 5.2 Key design variables
 
 - Channel diameter and geometry (circular, square, T-junction generation).
 - Gas and liquid flow rates → control slug/bubble length and regime.
 - Physical properties: viscosity, density, surface tension → determine slug regime (via Re, Ca, We).
 - Pressure drop and operating pressure (important for gas solubility).
 
-## 5.3 Limitations / Challenges
+### 5.3 Limitations / Challenges
 
 - Narrow operating window for stable slug flow; at higher velocities, flow may transition to churn/annular regimes.
 - Scale-up is non-trivial: often done by **numbering-up** (many parallel channels).
@@ -104,7 +104,7 @@ At the macro scale, a slug flow reactor is often modeled as a **plug flow reacto
 
 ---
 
-# 6. Typical Applications
+## 6. Typical Applications
 
 - Gas–liquid microreactors (e.g., hydrogenations, oxidations).  
 - Liquid–liquid reaction–extraction systems in microchannels.  
