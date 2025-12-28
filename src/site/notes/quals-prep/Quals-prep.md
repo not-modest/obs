@@ -9,6 +9,8 @@
 >## [[quals-prep/Dimensionless\|Dimensionless #]]
 
 ---
+
+>[!note] Use cmd+K/ ctrl+K for Global Search Bar (on top right)
 ## previous year paper titles
 #2016_Jan
 	- Modeling of Multi-Tubular Reactors for Fischer-Tropsch Synthesis
