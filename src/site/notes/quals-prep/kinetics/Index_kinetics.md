@@ -20,6 +20,7 @@
   - Isothermal design equations for single reactions  
   - Space time, conversion, and simple design comparisons 
 - [[quals-prep/kinetics/z_Packed_bed_reactors\|z_Packed_bed_reactors]]
+- [[quals-prep/kinetics/z_Reactive_Extraction\|z_Reactive_Extraction]]
 
 ## 3. Networks, selectivity, and design intuition
 
