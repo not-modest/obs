@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/kinetics/kin-02-temperature-dependence/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true}
+{"dg-publish":true,"permalink":"/quals-prep/kinetics/kin-02-temperature-dependence/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true}
 ---
 
 ## Key definitions

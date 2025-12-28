@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/kinetics/z-slug-flow-reactor/","tags":["2019_Jan"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true}
+{"dg-publish":true,"permalink":"/quals-prep/kinetics/z-slug-flow-reactor/","tags":["2019_Jan"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true}
 ---
 
 # Slug Flow Reactors 
@@ -366,7 +366,7 @@ In many microreactor slug flows, $D_{\text{ax,eff}}$ is small enough to neglect,
 **Hydrodynamics and RTD**
 - $u_{mix} = u_L + u_G$  
 - $\tau = L / u_{mix}$  
-- Hydraulic Diameter: $$ D_h = \frac{4\cdot\text{Cross-sectional Area}}{\text{Wetted Perimeter}} $$
+- Hydraulic Diameter #2019_Jan : $$ D_h = \frac{4\cdot\text{Cross-sectional Area}}{\text{Wetted Perimeter}} $$
 
 **Liquid-phase species balance (PFR + mass transfer + reaction)**
 $$

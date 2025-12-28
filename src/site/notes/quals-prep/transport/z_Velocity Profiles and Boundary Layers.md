@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/transport/z-velocity-profiles-and-boundary-layers/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true}
+{"dg-publish":true,"permalink":"/quals-prep/transport/z-velocity-profiles-and-boundary-layers/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true}
 ---
 
 [[quals-prep/transport/Trans_02_Momentum_Transport\|Trans_02_Momentum_Transport]]

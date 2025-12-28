@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/kinetics/z-debye-hueckel-theory-and-dielectrics/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true}
+{"dg-publish":true,"permalink":"/quals-prep/kinetics/z-debye-hueckel-theory-and-dielectrics/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true}
 ---
 
 #2024_Jan [[quals-prep/kinetics/Kin_06_Heterogeneous_Catalysis_Basics\|Kin_06_Heterogeneous_Catalysis_Basics]] [[quals-prep/kinetics/z_Leonard_jones_potential\|z_Leonard_jones_potential]]

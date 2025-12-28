@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/thermo/z-raoult-s-law/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true}
+{"dg-publish":true,"permalink":"/quals-prep/thermo/z-raoult-s-law/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true}
 ---
 
 #2021_Jan [[quals-prep/thermo/Thermo_06_Phase_Equilibria_VLE\|Thermo_06_Phase_Equilibria_VLE]]
