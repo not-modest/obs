@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/thermo/thermo-03-second-law-and-entropy/","dgHomeLink":true,"dgShowLocalGraph":true,"dgShowToc":true}
+{"dg-publish":true,"permalink":"/quals-prep/thermo/thermo-03-second-law-and-entropy/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true}
 ---
 
 ## Key definitions

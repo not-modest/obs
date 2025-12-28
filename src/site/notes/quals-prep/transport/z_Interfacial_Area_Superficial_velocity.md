@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/transport/z-interfacial-area-superficial-velocity/","dgHomeLink":true,"dgShowLocalGraph":true,"dgShowToc":true}
+{"dg-publish":true,"permalink":"/quals-prep/transport/z-interfacial-area-superficial-velocity/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true}
 ---
 
 #2024_Jan  

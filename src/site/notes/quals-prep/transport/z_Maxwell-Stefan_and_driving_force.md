@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/transport/z-maxwell-stefan-and-driving-force/","dgHomeLink":true,"dgShowLocalGraph":true,"dgShowToc":true}
+{"dg-publish":true,"permalink":"/quals-prep/transport/z-maxwell-stefan-and-driving-force/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true}
 ---
 
 #2024_Jan [[quals-prep/transport/Trans_04_Mass_Transfer\|Trans_04_Mass_Transfer]]

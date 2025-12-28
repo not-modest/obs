@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/thermo/z-gibbs-free-energy-vs-mixing-and-de-mixing/","dgHomeLink":true,"dgShowLocalGraph":true,"dgShowToc":true}
+{"dg-publish":true,"permalink":"/quals-prep/thermo/z-gibbs-free-energy-vs-mixing-and-de-mixing/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true}
 ---
 
 #2025_Jan #2024_Jan [[quals-prep/thermo/Thermo_05_Mixtures_and_Solutions\|Thermo_05_Mixtures_and_Solutions]]
