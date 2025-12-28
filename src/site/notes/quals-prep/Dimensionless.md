@@ -303,3 +303,40 @@ with $C_{A,i}$ the interfacial concentration of A.
   - **Fast reaction regime**; reaction occurs within the film, bulk A ≈ 0, and flux is proportional to $k_L C_{A,i} Ha$.
 
 Ha is essentially the **square root of a Damköhler number** based on the liquid film and is analogous to the **Thiele modulus** for porous catalysts. 
+
+### 2. Weber number
+The **Weber number** measures the ratio of **inertial forces** to **surface tension forces** in a flowing fluid, and is key for droplet/bubble breakup, sprays, and multiphase flows.
+
+For a characteristic length $L$ (e.g., droplet diameter), fluid density $\rho$, velocity $u$, and surface tension $\sigma$:
+
+$$
+\mathrm{We} = \frac{\rho u^2 L}{\sigma}
+$$
+
+Interpretation:
+
+- **Inertial pressure scale**: $\rho u^2$  
+- **Capillary (Laplace) pressure scale**: $\sigma / L$  
+
+So:
+$$
+\mathrm{We} = \frac{\rho u^2}{\sigma/L}
+$$
+#### Physical Meaning
+
+- $\mathrm{We} \ll 1$: Surface tension dominates. Droplets/bubbles tend to stay spherical and resist deformation or breakup.  
+- $\mathrm{We} \sim 1$: Inertial and surface tension forces comparable; deformation becomes significant.  
+- $\mathrm{We} \gg 1$: Inertia dominates; droplets, jets, or bubbles can strongly deform and break up into smaller fragments.
+
+In sprays, atomization, and emulsification, critical Weber numbers indicate onset of different **breakup regimes** (e.g., vibrational, bag, shear/strip breakup).
+
+---
+#### Typical Usage
+
+- Designing and analyzing **spray nozzles**, **atomizers**, **emulsification processes**.  
+- Classifying **jet breakup** and **droplet breakup** in crossflow.  
+- Comparing systems at different scales: if $\mathrm{We}$ is matched, **inertial vs capillary balance** is similar (dynamic similarity for these forces).
+
+Remember:  
+- Large $u$, large $L$, or large $\rho$ → higher $\mathrm{We}$ → more deformation/breakup.  
+- Large $\sigma$ → lower $\mathrm{We}$ → more stable interfaces.
