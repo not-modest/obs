@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/quals-prep/kinetics/z-slug-flow-reactor/","tags":["2019_Jan"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true}
 ---
 
-[[quals-prep/transport/z_role_of_surfactants\|../transport/z_role_of_surfactants]] #2019_Jan 
+[[quals-prep/transport/z_role_of_surfactants\| role of surfactants]] #2019_Jan 
+
 # Slug Flow Reactors 
 ![../src/Pasted image 20251228154531.png|400](/img/user/quals-prep/src/Pasted%20image%2020251228154531.png)
 
@@ -126,6 +127,12 @@ Consider a capillary of diameter $D$, total length $L$, carrying alternating **l
   u_L = \frac{Q_L}{A}, \quad
   u_G = \frac{Q_G}{A}
   $$
+- For Pressure drop #2019_Jan 
+
+$$ \frac{dP}{dz} < 0 \quad \text{(Pressure Drop)} $$$$
+u_{s,l}(z) = \frac{Q_l}{A} \approx \text{constant} \quad (\text{Incompressible Liquid}) $$$$
+\rho_g(z) \propto P(z) \implies Q_g(z) \propto \frac{1}{P(z)} \quad (\text{Compressible Gas})$$$$
+u_{s,g}(z) = u_{s,g,in} \left( \frac{P_{in}}{P(z)} \right) \implies \frac{d u_{s,g}}{dz} > 0 $$
 - Cross-sectional area:
   $$
   A = \frac{\pi D^2}{4}
