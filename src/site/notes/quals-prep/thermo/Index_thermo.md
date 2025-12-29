@@ -46,6 +46,7 @@
 - [[quals-prep/thermo/z_Raoult's_Law\|z_Raoult's_Law]]
 - [[quals-prep/thermo/z_Henry's_Law\|z_Henry's_Law]]
 - [[quals-prep/thermo/z_T–x–y Diagram and Azeotropes\|z_T–x–y Diagram and Azeotropes]]
+- [[quals-prep/thermo/z_non_ideal_liquid_interactions\|z_non_ideal_liquid_interactions]]
 
 ## 6. Chemical reaction equilibrium
 
