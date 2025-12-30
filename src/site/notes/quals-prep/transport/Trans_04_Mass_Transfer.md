@@ -94,8 +94,7 @@ Mass transfer resistance quantifies how strongly a system opposes mass transport
 When a species moves through multiple layers (e.g., gas film → interface → liquid film → porous solid), each layer contributes a resistance, and these add in series.  
 
 - Total resistance:
-  $$
-  \frac{1}{R_{\text{tot}}} = \sum_i \frac{1}{R_i}
+  $$ R_{\text{tot}} = \sum_i R_i
   $$
 - Overall flux from bulk 1 to bulk 2:
   $$
