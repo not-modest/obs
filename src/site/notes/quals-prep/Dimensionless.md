@@ -31,7 +31,7 @@
 - **Meaning**  
   Dimensionless pressure drop.
 - **Connections**  
-  - [[quals-prep/transport/Trans_02_Momentum_Transport\|Trans_02_Momentum_Transport]] — Moody chart and head loss in piping networks.  
+  - [[quals-prep/transport/Trans_02_Momentum_Transport\|Trans_02_Momentum_Transport]] — [[quals-prep/transport/Trans_02_Momentum_Transport#Interesting concepts\|Moody Chart]]and head loss in piping networks.  
 
 ### Froude number, Fr (optional memory)
 

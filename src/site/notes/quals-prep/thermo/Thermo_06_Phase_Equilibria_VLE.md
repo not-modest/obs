@@ -9,9 +9,9 @@
 
 - **Phase rule** (for non‑reactive systems)
   $$
-  F = C - P + 2
+  F = C - P + 2 - R
   $$
-  where $F$ is degrees of freedom, $C$ components, $P$ phases.
+  where $F$ is degrees of freedom, $C$ components, $P$ phases, $R$ Reactions.
 ![../src/Pasted image 20251223145242.png|400](/img/user/quals-prep/src/Pasted%20image%2020251223145242.png)
 
 - **K‑value (equilibrium ratio)**  

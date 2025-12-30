@@ -68,12 +68,13 @@ where $C_D$ is drag coefficient and $A$ is reference area.
 ## Interesting concepts
 
 - **Laminar vs turbulent**  
-  Low Re: viscous forces dominate, predictable parabolic profiles. High Re: turbulence, flatter velocity profile, larger friction factor.
-	![Pasted image 20251230150833.png](/img/user/quals-prep/src/Pasted%20image%2020251230150833.png)
+  Low Re: viscous forces dominate, predictable parabolic profiles. turbulent Re: friction factor depends on relative roughness $\frac{\epsilon}{d}$ only [[quals-prep/Dimensionless#Fanning friction factor, $f$\|friction factor]]
 
 - **Entrance length**  
   Fully developed flow occurs after some entrance distance; for many exam problems, pipe is assumed fully developed.
 
 - **Use of Moody chart**  
   For turbulent flow, friction factor depends on Re and relative roughness; read from Moody chart or correlations.
+- #### Moody Chart example
+	![Pasted image 20251230150833.png](/img/user/quals-prep/src/Pasted%20image%2020251230150833.png)
 

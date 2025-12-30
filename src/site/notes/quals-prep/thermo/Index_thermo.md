@@ -61,4 +61,6 @@
   - Equilibrium vs rate control (connection to kinetics)  
   - Enthalpy, heat effects of reaction (for reactor energy balances)  
   - Thermodynamic driving force vs transport limitations  
+# 8. Link to Soor's Notes [[Thermo Quals Study Guide - Soor Vora.pdf|Here]]
+
 
