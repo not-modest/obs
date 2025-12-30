@@ -20,7 +20,8 @@
 - [[quals-prep/thermo/Thermo_03_Second_Law_and_Entropy\|Thermo_03_Second_Law_and_Entropy]]  
   - Kelvin–Planck and Clausius statements  
   - Entropy balance, reversible vs irreversible  
-  - Heat engines, refrigerators, efficiency  
+  - Heat engines, refrigerators, efficiency
+  - [[quals-prep/thermo/z_Maxwell_Relations\|z_Maxwell_Relations]]
 
 ## 3. Properties and equations of state
 
