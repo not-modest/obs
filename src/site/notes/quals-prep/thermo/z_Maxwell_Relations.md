@@ -40,8 +40,43 @@ From these, identify partial derivatives:
 - $-S = \left(\dfrac{\partial G}{\partial T}\right)_P$,  $V  = \left(\dfrac{\partial G}{\partial P}\right)_T$
 
 ---
+## 2. The Four Common Maxwell Relations
 
-## 2. Deriving a Maxwell Relation (Example)
+Starting from the four potentials above:
+
+1. From $U(S,V)$:
+   $$
+   \left(\frac{\partial T}{\partial V}\right)_S
+   =
+   -\left(\frac{\partial P}{\partial S}\right)_V
+   $$
+
+2. From $H(S,P)$:
+   $$
+   \left(\frac{\partial T}{\partial P}\right)_S
+   =
+   \left(\frac{\partial V}{\partial S}\right)_P
+   $$
+
+3. From $A(T,V)$:
+   $$
+   \left(\frac{\partial S}{\partial V}\right)_T
+   =
+   \left(\frac{\partial P}{\partial T}\right)_V
+   $$
+
+4. From $G(T,P)$:
+   $$
+   \left(\frac{\partial S}{\partial P}\right)_T
+   =
+   -\left(\frac{\partial V}{\partial T}\right)_P
+   $$
+
+These are the “standard” Maxwell relations; more exist if you include additional variables (e.g., composition, fields).
+
+---
+
+## 3. Deriving a Maxwell Relation (Example)
 
 Take internal energy $U(S,V)$:
 
@@ -99,42 +134,10 @@ The other three follow analogously from $H$, $F$, and $G$.
 
 ---
 
-## 3. The Four Common Maxwell Relations
-
-Starting from the four potentials above:
-
-1. From $U(S,V)$:
-   $$
-   \left(\frac{\partial T}{\partial V}\right)_S
-   =
-   -\left(\frac{\partial P}{\partial S}\right)_V
-   $$
-
-2. From $H(S,P)$:
-   $$
-   \left(\frac{\partial T}{\partial P}\right)_S
-   =
-   \left(\frac{\partial V}{\partial S}\right)_P
-   $$
-
-3. From $A(T,V)$:
-   $$
-   \left(\frac{\partial S}{\partial V}\right)_T
-   =
-   \left(\frac{\partial P}{\partial T}\right)_V
-   $$
-
-4. From $G(T,P)$:
-   $$
-   \left(\frac{\partial S}{\partial P}\right)_T
-   =
-   -\left(\frac{\partial V}{\partial T}\right)_P
-   $$
-
-These are the “standard” Maxwell relations; more exist if you include additional variables (e.g., composition, fields).
-
----
-
+### Triple product rule
+$$ (\frac{\partial x}{\partial y})_z\cdot(\frac{\partial z}{\partial x})_y\cdot(\frac{\partial y}{\partial z})_x = -1
+$$
+_Manipulate Maxwell relations according to above rule to evaluate hard to measure thermo quantities like S_
 ## 4. Why They Matter (Physical/Practical Meaning)
 
 ### 4.1 Entropy from measurable properties
@@ -183,9 +186,7 @@ you can derive relations between $C_P$, $C_V$, thermal expansion coefficient $\a
 
 - Mathematically: Maxwell relations are consequences of **exact differentials** and the symmetry of mixed partial derivatives of thermodynamic potentials.
 - Physically: they are **bridges** that express difficult derivatives (especially entropy derivatives) in terms of **measurable quantities** (P, V, T).
-- Practically: used to:
+- Practically used to:
   - Derive new thermodynamic identities.  
   - Compute entropy/enthalpy changes from PVT data.  
   - Relate response functions and derive equations of state consequences.
-
-They significantly reduce the “bookkeeping” of thermodynamics: once the potentials are known as functions of their natural variables, Maxwell relations provide a systematic way to extract all other properties.

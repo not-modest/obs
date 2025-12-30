@@ -17,6 +17,7 @@
   - Laminar flow in a pipe (velocity profile, pressure drop)  
   - Friction factor and major/minor losses  
   - Very brief: external flow and drag coefficients 
+- [[quals-prep/transport/z_Viscosity\|z_Viscosity]]
 - [[quals-prep/transport/z_Surface_Tension\|z_Surface_Tension]]
 - [[quals-prep/transport/z_Ergun_equation\|z_Ergun_equation]]
 
@@ -55,3 +56,4 @@
   - Diffusion-controlled vs reaction-controlled regimes  
   - Using dimensionless groups (Bi, Da) to classify behavior  
 
+## 7. Link to Soor's Notes [[Transport Quals Study Guide - Soor Vora.pdf|here]]
