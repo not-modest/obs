@@ -102,9 +102,6 @@ $$
 \tau = \int_{0}^{X_A} \frac{dX_A}{k(1 - X_A)}
      = \frac{1}{k}\,\ln\!\left(\frac{1}{1 - X_A}\right)
 $$
-
----
-
 ## Interesting concepts
 
 - **Where $-r_A$ is evaluated**  
@@ -121,6 +118,8 @@ $$
   For first order, $t$ or $\tau$ is proportional to $1/k$; doubling $k$ halves required time/space time at fixed conversion.
 
 - **Reaction Performance**: yield, selectivity, energy input... #2025_Jan 
+- **Levenspiel plots**
+	![Pasted image 20251230144043.png](/img/user/quals-prep/src/Pasted%20image%2020251230144043.png)
 
 ---
 

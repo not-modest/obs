@@ -96,3 +96,16 @@ where $u$ is velocity, $L$ length, $D_{\text{ax}}$ axial dispersion coefficient.
 
 ---
 
+### How can certain changes impact the overall RTD? 
+_[[Kinetics Quals Study Guide - Soor Vora.pdf|from Soor]]_
+1. Addition of a PFR to a series basically results in an offset by $\tau$. (Multiple PFRs in series: offset adds) 
+	1. Note: Order of PFR/CSTR doesn't impact RTD, but it can impact conversion (Levenspiel) 
+		![Pasted image 20251230145054.png|300](/img/user/quals-prep/src/Pasted%20image%2020251230145054.png) ![Pasted image 20251230145109.png|300](/img/user/quals-prep/src/Pasted%20image%2020251230145109.png)
+2. Multiple CSTRs - shape gets squashed, initial increase in P before decrease 
+	![Pasted image 20251230144720.png|300](/img/user/quals-prep/src/Pasted%20image%2020251230144720.png)
+3. PFR with recycle ratio - multiple peaks in E(t), higher recycle ratio leads to a different change in peak intensity 
+4. Poor mixing in a CSTR - E(t) will skew more - molecules can get mixed away or not mixed enough depending on impeller position. Lower impeller speed will bring us closer to a PFR. 
+5. Dead volume - Smaller usable volume, so the $\tau_{obs} < \tau_{actual}$ , so timescale of decay is quicker than $\tau$. 
+6. Bypass - Smaller observed volumetric flowrate, so the decay timescale will be longer than $\tau$. 
+7. PFR with eddies - Mixing leads to some elements of a CSTR, small amounts would lead to spreading of the PFR RTD. 
+8. Channeling - Bimodal distribution, some molecules will have more channel effects than others.

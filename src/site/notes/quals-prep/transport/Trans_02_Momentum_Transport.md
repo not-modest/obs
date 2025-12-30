@@ -69,6 +69,7 @@ where $C_D$ is drag coefficient and $A$ is reference area.
 
 - **Laminar vs turbulent**  
   Low Re: viscous forces dominate, predictable parabolic profiles. High Re: turbulence, flatter velocity profile, larger friction factor.
+	![Pasted image 20251230150833.png](/img/user/quals-prep/src/Pasted%20image%2020251230150833.png)
 
 - **Entrance length**  
   Fully developed flow occurs after some entrance distance; for many exam problems, pipe is assumed fully developed.

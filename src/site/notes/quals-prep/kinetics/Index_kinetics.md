@@ -62,4 +62,4 @@
   - Energy effects (ΔH_r) in design equations (link to thermo pages)  
   - External/internal transport limitations (link to transport pages)  
 
-
+# 8. Link to Soor's Notes [[Kinetics Quals Study Guide - Soor Vora.pdf|Here]]
