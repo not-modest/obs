@@ -149,5 +149,3 @@ Mixtures: viscosity often estimated by mixing rules (e.g. logarithmic blending),
 | Reynolds number    | $Re$   | $Re = \rho U L / \mu = UL/\nu$     | –          |
 | Prandtl number     | $Pr$   | $Pr = \nu/\alpha = \mu c_p/k$      | –          |
 | Schmidt number     | $Sc$   | $Sc = \nu/D = \mu/(\rho D)$        | –          |
-
-Viscosity is the **bridge** from microscopic momentum exchange to macroscopic flow, and it appears everywhere in ChemE: pressure drop, flow regime, mixing, transport coefficients, and non-Newtonian rheology.
