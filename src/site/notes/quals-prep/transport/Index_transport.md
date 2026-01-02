@@ -20,6 +20,7 @@
 - [[quals-prep/transport/z_Viscosity\|z_Viscosity]]
 - [[quals-prep/transport/z_Surface_Tension\|z_Surface_Tension]]
 - [[quals-prep/transport/z_Ergun_equation\|z_Ergun_equation]]
+- [[quals-prep/transport/z_Navier_Stokes\|z_Navier_Stokes]]
 
 ## 3. Heat transfer
 
