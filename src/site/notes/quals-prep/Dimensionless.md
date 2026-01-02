@@ -3,7 +3,7 @@
 ---
 
 
-[[quals-prep/Dimensionless#Some more Dimensionless Groups!\|Dimensionless#Some more Dimensionless Groups!]] at the end of this page
+[[quals-prep/Dimensionless#Some more Dimensionless Groups!\|Some more special ones]] at the end of this page
 ## 1. Flow and momentum
 
 ### Reynolds number, Re
