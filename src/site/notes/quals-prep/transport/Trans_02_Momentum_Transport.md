@@ -19,6 +19,9 @@
 - **Friction factor, $f$**  
   Dimensionless measure of pressure drop in pipes.
 
+- **Newtonian v/s Non-newtonian**
+![Pasted image 20260102153723.png](/img/user/quals-prep/src/Pasted%20image%2020260102153723.png)
+
 ---
 
 ## Core formulas
