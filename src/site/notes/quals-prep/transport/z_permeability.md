@@ -16,7 +16,7 @@ Permeability quantifies how easily a fluid passes through a material or barrier.
 
 **Intrinsic permeability** $k$ is a property of the porous solid only; it measures the ability of the medium to transmit fluid, independent of fluid properties.
 
-### Darcy’s Law (1D, incompressible, laminar)
+### Darcy’s Law (1D, incompressible, laminar) [[quals-prep/transport/z_Darcy's_Law\|more details]]
 
 For flow through a porous slab of length $L$ and cross-sectional area $A$:
 $$
