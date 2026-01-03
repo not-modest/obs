@@ -14,6 +14,7 @@
   - First law: closed vs open systems  
   - Shaft work, flow work, enthalpy, reference states  
 - [[quals-prep/thermo/z_Le Chatelier's\|z_Le Chatelier's]]
+- [[quals-prep/thermo/z_Isotherms_ALL\|z_Isotherms_ALL]]
 
 
 ## 2. Second law and entropy
@@ -38,6 +39,7 @@
   - Gibbs–Duhem idea  
   - Fugacity and activity  
   - [[quals-prep/thermo/z_Gibbs Free Energy vs Mixing & De-mixing\|z_Gibbs Free Energy vs Mixing & De-mixing]]
+  - [[quals-prep/thermo/z_ternary_plots\|z_ternary_plots]]
 
 ## 5. Phase equilibrium (VLE focus)
 

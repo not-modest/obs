@@ -7,6 +7,7 @@
 ## 1. Flow and momentum
 
 ### Reynolds number, Re
+- The **Reynolds number** essentially answers this question: “Will this fluid flow in smooth layers or will it mix chaotically?”
 
 - **Definition**
   $$
@@ -16,6 +17,12 @@
 	- $\large{\frac{\text(inertial forces)}{\text(viscous forces)}}$ #2024_Jan 
 	- sets laminar vs turbulent regime and structure of velocity field.
 	- **viscous force** is the internal resistance of the fluid to flow and deformation caused by the friction between adjacent fluid layers moving at different velocities. It opposes fluid motion, dampening turbulence and creating velocity gradients (like the boundary layer) near reactor walls
+	- **Characteristic Length (L)**:
+	    - For pipes: Use the pipe diameter
+	    - For non-circular ducts: Use the hydraulic diameter $D_H=\frac{4\cdot A}{P_{\text{wetted}}}$
+	    - For flow over flat plates: Use the distance from the leading edge
+		    ![Pasted image 20260103160801.png](/img/user/quals-prep/src/Pasted%20image%2020260103160801.png)
+	    - For flow around objects: Use the object’s characteristic dimension
 - **Use**  
   Pipe and channel flow, external flow, entry to almost all transport correlations.
 - **Connections**  
@@ -52,8 +59,10 @@
   $$
   \text{Pr} = \frac{c_p \mu}{k}
   $$
+	![Pasted image 20260103161034.png](/img/user/quals-prep/src/Pasted%20image%2020260103161034.png)
 - **Meaning**  
-  Momentum diffusivity / thermal diffusivity; compares thickness of velocity and thermal boundary layers.
+  - Momentum diffusivity $\nu$ / thermal diffusivity $\alpha$; 
+  - Compares thickness of velocity and thermal boundary layers.
 - **Connections**  
   - [[quals-prep/transport/Trans_03_Heat_Transfer\|Trans_03_Heat_Transfer]] — Nu = $f(\text{Re},\text{Pr})$ in convection.  
 
