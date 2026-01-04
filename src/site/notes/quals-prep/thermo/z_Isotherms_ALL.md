@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/thermo/z-isotherms-all/","dgHomeLink":true,"dgShowLocalGraph":true,"dgShowToc":true,"dgShowTags":true}
+{"dg-publish":true,"permalink":"/quals-prep/thermo/z-isotherms-all/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true}
 ---
 
 # Chemical Engineering Isotherms Reference Table
