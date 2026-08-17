@@ -37,3 +37,6 @@
 	- Continuous multiphase Bunsen reactor of iodine-sulfur thermochemical water splitting cycles for hydrogen production: Experimental, Modelling and Design Insights
 
 ---
+For any issues/bugs/mistakes, contact:
+Prasham Mehta (pmehta334@gatech.edu)
+---
