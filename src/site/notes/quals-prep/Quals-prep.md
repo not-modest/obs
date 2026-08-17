@@ -9,6 +9,10 @@
 >## [[quals-prep/Dimensionless\|Dimensionless #]]
 
 ---
+For any issues/bugs/mistakes, contact:
+Prasham Mehta (pmehta334@gatech.edu)
+
+---
 
 >[!note] Use cmd+K/ ctrl+K for Global Search Bar (on top right)
 ## previous year paper titles
@@ -36,7 +40,4 @@
 	- Microreactor technology in experimental and modelling study of alcohol oxidation on nanogold
 	- Continuous multiphase Bunsen reactor of iodine-sulfur thermochemical water splitting cycles for hydrogen production: Experimental, Modelling and Design Insights
 
----
-For any issues/bugs/mistakes, contact:
-Prasham Mehta (pmehta334@gatech.edu)
 ---
