@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/thermo/z-t-x-y-diagram-and-azeotropes/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true}
+{"dg-publish":true,"permalink":"/quals-prep/thermo/z-t-x-y-diagram-and-azeotropes/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"dg-note-properties":{}}
 ---
 
 [[quals-prep/thermo/Thermo_06_Phase_Equilibria_VLE\|Thermo_06_Phase_Equilibria_VLE]]
@@ -18,7 +18,7 @@ Two primary curves:
    - Typically the **upper** curve on the T–x–y diagram.
 
 Between these curves, **liquid and vapor coexist**.
-![../src/Pasted image 20251223152314.png|400](/img/user/quals-prep/src/Pasted%20image%2020251223152314.png)
+![../src/Pasted image 20251223152314.png\|400](/img/user/quals-prep/src/Pasted%20image%2020251223152314.png)
 
 ---
 

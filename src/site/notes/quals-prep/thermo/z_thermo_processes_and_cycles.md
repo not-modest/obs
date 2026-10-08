@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/thermo/z-thermo-processes-and-cycles/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true}
+{"dg-publish":true,"permalink":"/quals-prep/thermo/z-thermo-processes-and-cycles/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"dg-note-properties":{}}
 ---
 
-[[#Quick Summary Table Key Equations]]
+[[quals-prep/thermo/z_thermo_processes_and_cycles#Quick Summary Table Key Equations\|#Quick Summary Table Key Equations]]
 # Basic Thermodynamic Processes (Ideal Gas)
 
 | Process type  | Condition          | Key relations (ideal gas, quasi-static)                                        | $p\!-\!V$ work $W$ (system)                      |
@@ -21,7 +21,7 @@
 
 # Major Thermodynamic Cycles
 
-| Aspect                     | [[#1. Carnot Cycle (Reversible, Ideal Benchmark)\|Carnot cycle]] | [[#2. Rankine Cycle (Basic Steam Power Cycle)\|Rankine cycle]]                         |
+| Aspect                     | [[quals-prep/thermo/z_thermo_processes_and_cycles#1. Carnot Cycle (Reversible, Ideal Benchmark)\|Carnot cycle]] | [[quals-prep/thermo/z_thermo_processes_and_cycles#2. Rankine Cycle (Basic Steam Power Cycle)\|Rankine cycle]]                         |
 | -------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | Purpose                    | Ideal, theoretical benchmark for maximum efficiency              | Practical steam power cycle used in turbines                                           |
 | Working fluid model        | Ideal gas or idealized fluid with reversible processes           | Real water/steam with phase change                                                     |

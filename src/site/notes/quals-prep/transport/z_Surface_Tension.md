@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/transport/z-surface-tension/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true}
+{"dg-publish":true,"permalink":"/quals-prep/transport/z-surface-tension/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"dg-note-properties":{}}
 ---
 
 #2024_Jan 
@@ -68,7 +68,7 @@ Where:
 - $\gamma_{\text{SL}}$ = solid–liquid interfacial energy  
 - $\gamma_{\text{LG}}$ = liquid–gas surface tension  
 - $\theta$ = contact angle  
-![quals-prep/src/Pasted image 20251224164344.png|400](/img/user/quals-prep/src/Pasted%20image%2020251224164344.png) 
+![quals-prep/src/Pasted image 20251224164344.png\|400](/img/user/quals-prep/src/Pasted%20image%2020251224164344.png) 
 Interpretation:
 ![quals-prep/src/Pasted image 20251224164501.png](/img/user/quals-prep/src/Pasted%20image%2020251224164501.png)
 - $\theta \approx 0^\circ$: good wetting (hydrophilic).  

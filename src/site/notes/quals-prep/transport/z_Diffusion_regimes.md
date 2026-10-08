@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/transport/z-diffusion-regimes/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true}
+{"dg-publish":true,"permalink":"/quals-prep/transport/z-diffusion-regimes/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"dg-note-properties":{}}
 ---
 
 # Diffusion Regimes
-![../src/Pasted image 20251226125548.png|600](/img/user/quals-prep/src/Pasted%20image%2020251226125548.png)
+![../src/Pasted image 20251226125548.png\|600](/img/user/quals-prep/src/Pasted%20image%2020251226125548.png)
 
 Diffusion describes transport driven by random molecular motion and gradients in chemical potential or concentration. Different **regimes** are identified based on geometry, time scales, and interactions.
 

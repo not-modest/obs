@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/kinetics/index-kinetics/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true}
+{"dg-publish":true,"permalink":"/quals-prep/kinetics/index-kinetics/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"dg-note-properties":{}}
 ---
 
 ## 1. Rate laws and basic kinetics
@@ -62,4 +62,4 @@
   - Energy effects (ΔH_r) in design equations (link to thermo pages)  
   - External/internal transport limitations (link to transport pages)  
 
-# 8. Link to Soor's Notes [[Kinetics Quals Study Guide - Soor Vora.pdf|Here]]
+# 8. Link to Soor's Notes [[quals-prep/kinetics/Soor's notes\|Here]]

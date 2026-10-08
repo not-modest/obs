@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/kinetics/z-slug-flow-reactor/","tags":["2019_Jan"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true}
+{"dg-publish":true,"permalink":"/quals-prep/kinetics/z-slug-flow-reactor/","tags":["2019_Jan"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"dg-note-properties":{"tags":["2019_Jan"]}}
 ---
 
 [[quals-prep/transport/z_role_of_surfactants\| role of surfactants]] #2019_Jan 
 
 # Slug Flow Reactors 
-![../src/Pasted image 20251228154531.png|400](/img/user/quals-prep/src/Pasted%20image%2020251228154531.png)
+![../src/Pasted image 20251228154531.png\|400](/img/user/quals-prep/src/Pasted%20image%2020251228154531.png)
 
 Slug flow reactors can be modeled as **plug-flow reactors** with enhanced interphase mass/heat transfer due to Taylor slugs. Below are the main equations and derivations.
 

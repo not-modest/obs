@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/transport/index-transport/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true}
+{"dg-publish":true,"permalink":"/quals-prep/transport/index-transport/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"dg-note-properties":{}}
 ---
 
 ## 1. Big picture and tools
@@ -57,4 +57,4 @@
   - Diffusion-controlled vs reaction-controlled regimes  
   - Using dimensionless groups (Bi, Da) to classify behavior  
 
-## 7. Link to Soor's Notes [[Transport Quals Study Guide - Soor Vora.pdf|here]]
+## 7. Link to Soor's Notes [[quals-prep/transport/Soor's notes\|here]]

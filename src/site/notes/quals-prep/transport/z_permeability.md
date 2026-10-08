@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/transport/z-permeability/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true}
+{"dg-publish":true,"permalink":"/quals-prep/transport/z-permeability/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"dg-note-properties":{}}
 ---
 
 #2021_Jan 
@@ -8,7 +8,7 @@ Permeability quantifies how easily a fluid passes through a material or barrier.
 1. **Porous media permeability** (Darcy-type flow through rocks, catalysts, filters)  
 2. **Membrane permeability** (mass transfer through dense or porous membranes)
 
-[[#6. Summary Table]]
+[[quals-prep/transport/z_permeability#6. Summary Table\|#6. Summary Table]]
 
 ---
 

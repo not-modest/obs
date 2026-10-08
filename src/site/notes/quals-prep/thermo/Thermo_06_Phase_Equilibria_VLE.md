@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/thermo/thermo-06-phase-equilibria-vle/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true}
+{"dg-publish":true,"permalink":"/quals-prep/thermo/thermo-06-phase-equilibria-vle/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"dg-note-properties":{}}
 ---
 
 ## Key definitions
@@ -12,7 +12,7 @@
   F = C - P + 2 - R
   $$
   where $F$ is degrees of freedom, $C$ components, $P$ phases, $R$ Reactions.
-![../src/Pasted image 20251223145242.png|400](/img/user/quals-prep/src/Pasted%20image%2020251223145242.png)
+![../src/Pasted image 20251223145242.png\|400](/img/user/quals-prep/src/Pasted%20image%2020251223145242.png)
 
 - **K‑value (equilibrium ratio)**  
   $$

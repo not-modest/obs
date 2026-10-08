@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/thermo/z-ternary-plots/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true}
+{"dg-publish":true,"permalink":"/quals-prep/thermo/z-ternary-plots/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"dg-note-properties":{}}
 ---
 
 A ternary plot is a triangular diagram used to represent mixtures of three components whose fractions sum to a constant (usually 1 or 100%). It is the natural 2D representation of 3‑component composition space.
-![Pasted image 20260103162255.png|700](/img/user/quals-prep/src/Pasted%20image%2020260103162255.png)
+![Pasted image 20260103162255.png\|700](/img/user/quals-prep/src/Pasted%20image%2020260103162255.png)
 
 ---
 

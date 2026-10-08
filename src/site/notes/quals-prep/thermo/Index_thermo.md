@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/thermo/index-thermo/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true}
+{"dg-publish":true,"permalink":"/quals-prep/thermo/index-thermo/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"dg-note-properties":{}}
 ---
 
 ## 1. Foundations and balances
@@ -65,6 +65,6 @@
   - Equilibrium vs rate control (connection to kinetics)  
   - Enthalpy, heat effects of reaction (for reactor energy balances)  
   - Thermodynamic driving force vs transport limitations  
-# 8. Link to Soor's Notes [[Thermo Quals Study Guide - Soor Vora.pdf|Here]]
+# 8. Link to Soor's Notes [[quals-prep/thermo/Soor's notes\|Here]]
 
 

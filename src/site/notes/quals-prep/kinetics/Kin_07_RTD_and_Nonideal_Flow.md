@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/kinetics/kin-07-rtd-and-nonideal-flow/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true}
+{"dg-publish":true,"permalink":"/quals-prep/kinetics/kin-07-rtd-and-nonideal-flow/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"dg-note-properties":{}}
 ---
 
 ## Key definitions
@@ -37,7 +37,7 @@
   - Ideal PFR: $E(t) = \delta(t - \tau)$ (all fluid elements have the same residence time).
 
 ---
-![../src/Pasted image 20251224143547.png|700](/img/user/quals-prep/src/Pasted%20image%2020251224143547.png)
+![../src/Pasted image 20251224143547.png\|700](/img/user/quals-prep/src/Pasted%20image%2020251224143547.png)
 
 ## Core formulas
 
@@ -97,12 +97,12 @@ where $u$ is velocity, $L$ length, $D_{\text{ax}}$ axial dispersion coefficient.
 ---
 
 ### How can certain changes impact the overall RTD? 
-_[[Kinetics Quals Study Guide - Soor Vora.pdf|from Soor]]_
+_[from Soor](/img/user/quals-prep/src/Kinetics%20Quals%20Study%20Guide%20-%20Soor%20Vora.pdf)_
 1. Addition of a PFR to a series basically results in an offset by $\tau$. (Multiple PFRs in series: offset adds) 
 	1. Note: Order of PFR/CSTR doesn't impact RTD, but it can impact conversion (Levenspiel) 
-		![Pasted image 20251230145054.png|300](/img/user/quals-prep/src/Pasted%20image%2020251230145054.png) ![Pasted image 20251230145109.png|300](/img/user/quals-prep/src/Pasted%20image%2020251230145109.png)
+		![Pasted image 20251230145054.png\|300](/img/user/quals-prep/src/Pasted%20image%2020251230145054.png) ![Pasted image 20251230145109.png\|300](/img/user/quals-prep/src/Pasted%20image%2020251230145109.png)
 2. Multiple CSTRs - shape gets squashed, initial increase in P before decrease 
-	![Pasted image 20251230144720.png|300](/img/user/quals-prep/src/Pasted%20image%2020251230144720.png)
+	![Pasted image 20251230144720.png\|300](/img/user/quals-prep/src/Pasted%20image%2020251230144720.png)
 3. PFR with recycle ratio - multiple peaks in E(t), higher recycle ratio leads to a different change in peak intensity 
 4. Poor mixing in a CSTR - E(t) will skew more - molecules can get mixed away or not mixed enough depending on impeller position. Lower impeller speed will bring us closer to a PFR. 
 5. Dead volume - Smaller usable volume, so the $\tau_{obs} < \tau_{actual}$ , so timescale of decay is quicker than $\tau$. 
