@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quals-prep/quals-prep/","title":"Quals Prep","tags":["gardenEntry"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"dg-note-properties":{"title":"Quals Prep"}}
+{"dg-publish":true,"permalink":"/quals-prep/quals-prep/","tags":["gardenEntry"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"dg-note-properties":{}}
 ---
 
 >[!danger] Index
