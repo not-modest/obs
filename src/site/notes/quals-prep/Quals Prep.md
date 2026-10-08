@@ -2,14 +2,13 @@
 {"dg-publish":true,"permalink":"/quals-prep/quals-prep/","tags":["gardenEntry"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"dg-note-properties":{}}
 ---
 
-![qualsmeme.png\|500](/img/user/quals-prep/src/qualsmeme.png)
-
 >[!danger] Index
 >## [[quals-prep/kinetics/Index_kinetics\|kinetics]]
 >## [[quals-prep/thermo/Index_thermo\|thermodynamics]]
 >## [[quals-prep/transport/Index_transport\|transport]]
 >## [[quals-prep/Dimensionless\|Dimensionless #]]
 
+![qualsmeme.png\|300](/img/user/quals-prep/src/qualsmeme.png)
 ---
 For any issues/bugs/mistakes, contact:
 Prasham Mehta (pmehta334@gatech.edu)
